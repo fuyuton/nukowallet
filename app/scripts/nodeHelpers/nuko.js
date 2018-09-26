@@ -9,4 +9,4 @@ mewEth.post = function(data, callback) {
         callback({ error: true, msg: "connection error", data: "" });
     });
 }
-module.exports = mewEth;
+module.exports = nuko;
